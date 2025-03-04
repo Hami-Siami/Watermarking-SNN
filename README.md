@@ -19,14 +19,22 @@ We evaluate their impact on model fidelity, resilience against attacks, and appl
 - Evaluation of watermark robustness against **fine-tuning and compression attacks**  
 - PyTorch-based implementation with **SNNtorch** for neuromorphic computing  
 
-## Installation  
 
-### Prerequisites  
-- PyTorch  
-- [SNNtorch](https://github.com/jeshraghian/snntorch)  
+## 🛠 Requirements
 
-### Setup  
-Clone the repository:  
+The code is written in **Python** and requires the following libraries:
+
+- 🏋 **[PyTorch](https://pytorch.org/)**
+- ⚡ **[SNNTorch](https://snntorch.readthedocs.io/en/latest/)**
+- 🎯 **[Tonic](https://tonic.readthedocs.io/en/latest/)**
+
+
+
+You can install the required libraries using pip:
+
 ```bash
-git clone https://github.com/yourusername/Watermarking-SNNs.git
-cd Watermarking-SNNs
+pip install pytorch snntorch tonic 
+```
+
+
+
