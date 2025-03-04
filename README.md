@@ -22,7 +22,6 @@ We evaluate their impact on model fidelity, resilience against attacks, and appl
 ## Installation  
 
 ### Prerequisites  
-- Python 3.8+  
 - PyTorch  
 - [SNNtorch](https://github.com/jeshraghian/snntorch)  
 
